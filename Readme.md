@@ -1,11 +1,5 @@
-# this is a CS jobs searching project
-
----
+# Project_Name: CS jobs searcing project
 
 ## Summary of this project
 
-This project is a complex backend project that is built with nodejs, expressjs, mongodb, mongoose, jwt, bcrypt, and many more. This project is a complete backend project that has all the features that a backend project should have.
-
-Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tokens and many more. We have spent a lot of time in building this project and we are sure that you will learn a lot from this project.
-
----
+This backend project for CS jobs searches was developed using Node.js, Express.js, and MongoDB. The project makes use of all industry standards, including access tokens, refresh tokens, bcrypt, JWT, and many others. With all the features a backend project ought to have, this one is a full backend project.
